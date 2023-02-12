@@ -377,6 +377,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Intro_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1181
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2096806352e984a812742f5d701800
+      internalID: -1729741029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1187
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdc64976ab23e45982d0dc48d51aec
+      internalID: -1451058939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1189
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d3083d60074343a1b57688f59049e
+      internalID: -815855711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_16
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1121
+        width: 261
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936829cc3495a947a27bdeb1153e767
+      internalID: -454093982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -388,6 +472,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Intro_16: -454093982
       Intro_3: 727165698
       Intro_1: -1180288608
       Intro_10: -1458640888
@@ -396,10 +481,13 @@ TextureImporter:
       Intro_4: -1513134269
       Intro_2: 1933065689
       Intro_7: -893035630
+      Intro_14: -1451058939
       Intro_0: -339702645
+      Intro_13: -1729741029
       Intro_6: 961571488
       Intro_12: -1554594804
       Intro_11: 1389908237
+      Intro_15: -815855711
       Intro_9: -1705715231
   spritePackingTag: 
   pSDRemoveMatte: 0
