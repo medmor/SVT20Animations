@@ -461,6 +461,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Intro_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1171
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb02129e92747429e600664f9adbef
+      internalID: 1099798226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1171
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c794edeb9fd3042a9e320baf5943af
+      internalID: 801861356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -473,10 +515,12 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Intro_16: -454093982
+      Intro_18: 801861356
       Intro_3: 727165698
       Intro_1: -1180288608
       Intro_10: -1458640888
       Intro_8: -1528709806
+      Intro_17: 1099798226
       Intro_5: -108514176
       Intro_4: -1513134269
       Intro_2: 1933065689
