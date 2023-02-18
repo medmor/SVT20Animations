@@ -503,6 +503,237 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Intro_19
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1188
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf3fcdf7363084393183d9b266aeab
+      internalID: -2100029758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_20
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1186
+        width: 63
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56607cf2d4de41746b24a66a9c608265
+      internalID: -528092661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 724
+        width: 452
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80674b1934cf1ba41b80b168b598f8c2
+      internalID: 916840413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_22
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 730
+        width: 449
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13802c4644571845a78251ef0855c0c
+      internalID: 1316864430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_23
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 841
+        width: 168
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d9b1087de1f246b72c5cbe728b3cc
+      internalID: 1116631386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_24
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 840
+        width: 167
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b2b2d79343d049b2c9e7819140785
+      internalID: 861759815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_25
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 837
+        width: 168
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064eeb83d42bc6e439353a82c18cfb23
+      internalID: 1480864526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_26
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 836
+        width: 167
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d04324c3934340a0bc446b0645887
+      internalID: 579403233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_27
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 825
+        width: 60
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181ceb7081956749bacdb27caacfc48
+      internalID: 1252339333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_28
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 825
+        width: 60
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be678e7bd627c428fe40dd0347af91
+      internalID: 1402525952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 563
+        width: 261
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6105304496942b44bdf1453a0ce8f8c
+      internalID: -1199241223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -518,16 +749,27 @@ TextureImporter:
       Intro_18: 801861356
       Intro_3: 727165698
       Intro_1: -1180288608
+      Intro_28: 1402525952
       Intro_10: -1458640888
       Intro_8: -1528709806
       Intro_17: 1099798226
       Intro_5: -108514176
       Intro_4: -1513134269
       Intro_2: 1933065689
+      Intro_22: 1316864430
       Intro_7: -893035630
+      Intro_19: -2100029758
+      Intro_25: 1480864526
+      Intro_27: 1252339333
+      Intro_20: -528092661
+      Intro_23: 1116631386
       Intro_14: -1451058939
       Intro_0: -339702645
       Intro_13: -1729741029
+      Intro_21: 916840413
+      Intro_26: 579403233
+      Intro_24: 861759815
+      Intro_29: -1199241223
       Intro_6: 961571488
       Intro_12: -1554594804
       Intro_11: 1389908237
