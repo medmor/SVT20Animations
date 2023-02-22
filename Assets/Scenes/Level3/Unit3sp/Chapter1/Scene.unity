@@ -123,7 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &1962224946
+--- !u!1001 &1755252440
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -136,19 +136,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_Color.g
-      value: 0.9022095
+      value: 0.9925731
       objectReference: {fileID: 0}
     - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_Color.r
-      value: 0.03529412
+      value: 0.7396226
       objectReference: {fileID: 0}
     - target: {fileID: 1152749025231398774, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.69
+      value: 7.14
       objectReference: {fileID: 0}
     - target: {fileID: 1152749025231398774, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.7
+      value: 9.83
       objectReference: {fileID: 0}
     - target: {fileID: 1152749026972616286, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_RootOrder
