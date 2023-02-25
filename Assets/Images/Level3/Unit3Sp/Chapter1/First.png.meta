@@ -486,7 +486,7 @@ TextureImporter:
       name: First_18
       rect:
         serializedVersion: 2
-        x: 1640
+        x: 1619
         y: 399
         width: 110
         height: 130
@@ -503,6 +503,300 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: First_19
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 367
+        width: 134
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290ecf903a4d3a429ed3752e5dd7558
+      internalID: 409168905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_20
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 367
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe2b6b38b377e42aabe3a3501abf3e
+      internalID: -578761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_21
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 367
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74acdc1fa9d640042a901af8d38f1286
+      internalID: 356912990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_22
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 367
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7445e44b9a8fe2c4688969126d2fd4b4
+      internalID: -556188214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_23
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 367
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403c886bcd5eec4d84604b51b05f7a5
+      internalID: 1939638443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_24
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 268
+        width: 138
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d62f5bec44b524b853bd5fbf5b04a9
+      internalID: 2080589903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_25
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 24
+        width: 221
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b3439f2d63ef409d7d19111ff40dd
+      internalID: 1841719264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 321
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341936433aa566b428a58d1492adf40f
+      internalID: 157938775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 319
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614317f82fbbdd4091c9c72315897dc
+      internalID: -1694198867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4
+        width: 237
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc7a17630530f4fb310f7dc0b8681b
+      internalID: -802956389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1
+        width: 337
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2f4954dd4a0842bdce8622e19bebd
+      internalID: -1006663403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_30
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 4
+        width: 390
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165eb518b5f2cc4fbeb12a1bce862f1
+      internalID: 1070566145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_31
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 10
+        width: 495
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef53b53b0a5b5741a80eae94e7c0fbc
+      internalID: -1256516239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First_32
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 5
+        width: 410
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876afaa60f8ff9d4f880e750fa468998
+      internalID: -360544844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -515,22 +809,36 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       First_17: -1546799187
+      First_20: -578761
       First_15: 110388888
       First_4: 1212419770
       First_0: 1970661276
       First_12: -494543510
+      First_26: 157938775
       First_9: 1461755327
+      First_24: 2080589903
+      First_28: -802956389
       First_3: -148648476
+      First_19: 409168905
+      First_25: 1841719264
       First_1: -1860242127
       First_8: 1360302782
+      First_23: 1939638443
+      First_31: -1256516239
       First_7: 961644111
+      First_21: 356912990
       First_2: 398800007
       First_5: 1293132278
       First_18: 1612960295
       First_13: 1104487809
       First_10: 501098703
+      First_22: -556188214
+      First_32: -360544844
+      First_29: -1006663403
+      First_27: -1694198867
       First_14: 1837864335
       First_6: -2082244888
+      First_30: 1070566145
       First_16: 882691202
       First_11: 2064220376
   spritePackingTag: 
