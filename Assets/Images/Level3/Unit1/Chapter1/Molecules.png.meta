@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1c44c1579e3d623409b50086d529aaf2
+guid: bf086739415064e4b9f599e1f4ffd196
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -81,33 +81,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -132,257 +119,123 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Intro_0
+      name: Molecules_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 4111
-        width: 779
-        height: 896
+        x: 18
+        y: 673
+        width: 334
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbed85f55b289ba4da2a722023bf91b9
-      internalID: -1600547403
+      spriteID: f90a796f95c186248bb345673e611fb2
+      internalID: 1674646865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Intro_1
+      name: Molecules_1
       rect:
         serializedVersion: 2
-        x: 800
-        y: 4111
-        width: 778
-        height: 896
+        x: 385
+        y: 664
+        width: 470
+        height: 66
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 432afd38219a80f4d939cc675f9c1f83
-      internalID: -1877176526
+      spriteID: 14fb83a28e54fd04f95e02dd3da2a56c
+      internalID: 1622736181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Intro_2
+      name: Molecules_2
       rect:
         serializedVersion: 2
-        x: 1591
-        y: 4111
-        width: 778
-        height: 896
+        x: 20
+        y: 581
+        width: 234
+        height: 63
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 583192184f20e6e42aa7f227da2ef348
-      internalID: 913551578
+      spriteID: 540f39e175ae77c4a9c42ba7e2c2586d
+      internalID: 1769425370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Intro_3
+      name: Molecules_3
       rect:
         serializedVersion: 2
-        x: 2379
-        y: 4111
-        width: 781
-        height: 896
+        x: 281
+        y: 578
+        width: 302
+        height: 63
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fcc2eab6f4128f4b923fee25b3b7c14
-      internalID: 655970417
+      spriteID: bb4541041a01db5468658d2f0e819a6c
+      internalID: -1298415712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Intro_4
+      name: Molecules_4
       rect:
         serializedVersion: 2
-        x: 3170
-        y: 4111
-        width: 781
-        height: 896
+        x: 599
+        y: 581
+        width: 168
+        height: 53
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd8452afb446d594394b841ffdf8622a
-      internalID: 830051696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_5
-      rect:
-        serializedVersion: 2
-        x: 4020
-        y: 4662
-        width: 323
-        height: 252
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d255eca030c568d479cadc8c6bc31a59
-      internalID: 552798695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_6
-      rect:
-        serializedVersion: 2
-        x: 4071
-        y: 4399
-        width: 243
-        height: 131
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f67a6ac039547248af582d0744049fa
-      internalID: -496103902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_7
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 3200
-        width: 779
-        height: 899
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa6340e6f8bd5f74ab8acb4f2f550a51
-      internalID: -220797316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_8
-      rect:
-        serializedVersion: 2
-        x: 927
-        y: 3489
-        width: 908
-        height: 460
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9dc89536a7291545a757969b8d7768d
-      internalID: -1667764790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_9
-      rect:
-        serializedVersion: 2
-        x: 1911
-        y: 3560
-        width: 243
-        height: 353
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56a3be8836553ff4a9b468b80fbf3632
-      internalID: -2065360720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_10
-      rect:
-        serializedVersion: 2
-        x: 2257
-        y: 3589
-        width: 249
-        height: 272
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf6c101b34a036b47a890ab817413561
-      internalID: -1802505954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Intro_11
-      rect:
-        serializedVersion: 2
-        x: 3087
-        y: 3746
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d33c761d253fa354099490b3428bd763
-      internalID: 1758505079
+      spriteID: 977134f19b17f6d4f8d13134c699614a
+      internalID: 788969067
       vertices: []
       indices: 
       edges: []
@@ -398,18 +251,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Intro_0: -1600547403
-      Intro_1: -1877176526
-      Intro_10: -1802505954
-      Intro_11: 1758505079
-      Intro_2: 913551578
-      Intro_3: 655970417
-      Intro_4: 830051696
-      Intro_5: 552798695
-      Intro_6: -496103902
-      Intro_7: -220797316
-      Intro_8: -1667764790
-      Intro_9: -2065360720
+      Molecules_0: 1674646865
+      Molecules_1: 1622736181
+      Molecules_2: 1769425370
+      Molecules_3: -1298415712
+      Molecules_4: 788969067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
