@@ -968,7 +968,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1011516382484964684}
-  - component: {fileID: 6731698286236132372}
   m_Layer: 0
   m_Name: Timeline
   m_TagString: Untagged
@@ -993,27 +992,6 @@ Transform:
   - {fileID: 501414529}
   m_Father: {fileID: 1011516382733380962}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!320 &6731698286236132372
-PlayableDirector:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1011516382484964723}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: 352fb0669be53364fa0b6045589b77ba, type: 2}
-  m_InitialState: 1
-  m_WrapMode: 2
-  m_DirectorUpdateMode: 1
-  m_InitialTime: 0
-  m_SceneBindings:
-  - key: {fileID: -6247689232799374306, guid: 352fb0669be53364fa0b6045589b77ba, type: 2}
-    value: {fileID: 7305414371600301454}
-  - key: {fileID: 2698221637222259044, guid: 352fb0669be53364fa0b6045589b77ba, type: 2}
-    value: {fileID: 7777010147214563014}
-  m_ExposedReferences:
-    m_References: []
 --- !u!1 &1011516382733380961
 GameObject:
   m_ObjectHideFlags: 0
@@ -1024,7 +1002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1011516382733380962}
   m_Layer: 0
-  m_Name: Glycolyse
+  m_Name: Krebs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
