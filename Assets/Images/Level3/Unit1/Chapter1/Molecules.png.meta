@@ -261,6 +261,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Molecules_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 501
+        width: 140
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de188aeeaf1e27c499f44c814d15d739
+      internalID: -311295326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -278,6 +299,7 @@ TextureImporter:
       Molecules_3: -1298415712
       Molecules_4: 788969067
       Molecules_5: -434732589
+      Molecules_6: -311295326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
