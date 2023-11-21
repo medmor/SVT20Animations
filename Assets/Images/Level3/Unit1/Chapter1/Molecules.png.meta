@@ -282,6 +282,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Molecules_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 514
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb7b86b71a0db469cd4594c329e32e
+      internalID: -641806462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 507
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e48860b454d84bbd7f9b118388aa7
+      internalID: -743674378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 502
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118c43a00fecde44af3710cf112923b
+      internalID: -1989429252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Molecules_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 520
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e281e16910cfce24daba83344e752113
+      internalID: -1570902678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -295,11 +379,15 @@ TextureImporter:
     nameFileIdTable:
       Molecules_0: 1674646865
       Molecules_1: 1622736181
+      Molecules_10: -1570902678
       Molecules_2: 1769425370
       Molecules_3: -1298415712
       Molecules_4: 788969067
       Molecules_5: -434732589
       Molecules_6: -311295326
+      Molecules_7: -641806462
+      Molecules_8: -743674378
+      Molecules_9: -1989429252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

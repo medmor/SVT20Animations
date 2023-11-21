@@ -471,6 +471,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Intro_16
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2880
+        width: 892
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f325a92e153545963c4dbe2acdf55
+      internalID: 724452259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -490,6 +511,7 @@ TextureImporter:
       Intro_13: 1945429041
       Intro_14: 588610136
       Intro_15: -1480056784
+      Intro_16: 724452259
       Intro_2: 913551578
       Intro_3: 655970417
       Intro_4: 830051696
