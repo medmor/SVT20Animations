@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 51fb484265d0f4f40b8c24ec93bf56ba
+guid: 603c97604bde85040933ecf1b26cda45
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3194890417784141291
-    second: Pedicule_0
+      213: 6332622829013500065
+    second: AM_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pedicule_0
+      name: AM_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 0
-        width: 24
-        height: 57
+        x: 1
+        y: 1
+        width: 92
+        height: 166
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51a4daf971879a3d0800000000000000
-      internalID: -3194890417784141291
+      spriteID: 1a001eb49eef1e750800000000000000
+      internalID: 6332622829013500065
       vertices: []
       indices: 
       edges: []
@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AM_0: 6332622829013500065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 494123ac0a7fbcb46997bccbc7399f73
+guid: da073e68cc51e8f468123c0485f4b50b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6557759329200905091
-    second: Peid_0
+      213: 7264851848346907523
+    second: Xenop_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Peid_0
+      name: Xenop_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1
-        width: 47
-        height: 41
+        x: 50
+        y: 27
+        width: 412
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38b168b8d57d10b50800000000000000
-      internalID: 6557759329200905091
+      spriteID: 383be86e340f1d460800000000000000
+      internalID: 7264851848346907523
       vertices: []
       indices: 
       edges: []
@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Xenop_0: 7264851848346907523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

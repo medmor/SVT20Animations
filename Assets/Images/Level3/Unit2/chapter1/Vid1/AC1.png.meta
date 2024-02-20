@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 60a105766e4cd744c9a6e2e15f094c92
+guid: ea3cc38dfe63ea844a2fb7a165d8e87e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -725947027999284986
-    second: Chapeau_0
+      213: -5072258087088561363
+    second: AC1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chapeau_0
+      name: AC1_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 13
         y: 0
-        width: 92
-        height: 68
+        width: 536
+        height: 575
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6012a56360bece5f0800000000000000
-      internalID: -725947027999284986
+      spriteID: d23ebfdc428bb99b0800000000000000
+      internalID: -5072258087088561363
       vertices: []
       indices: 
       edges: []
@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AC1_0: -5072258087088561363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

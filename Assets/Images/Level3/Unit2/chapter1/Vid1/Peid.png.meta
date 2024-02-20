@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6b5f5e81ec00ff44bbec0d44be13ab1e
+guid: 494123ac0a7fbcb46997bccbc7399f73
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1769083081377284462
-    second: Acetabulaire1_0
+      213: 6557759329200905091
+    second: Peid_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Acetabulaire1_0
+      name: Peid_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 297
-        height: 365
+        x: 32
+        y: 1
+        width: 47
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29e7a5c7f44f277e0800000000000000
-      internalID: -1769083081377284462
+      spriteID: 38b168b8d57d10b50800000000000000
+      internalID: 6557759329200905091
       vertices: []
       indices: 
       edges: []
@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Peid_0: 6557759329200905091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f9d7eef34d5bbcd47bfa29f72d98a16b
+guid: 51fb484265d0f4f40b8c24ec93bf56ba
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8832167503239892954
-    second: pngwing.com_0
+      213: -3194890417784141291
+    second: Pedicule_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngwing.com_0
+      name: Pedicule_0
       rect:
         serializedVersion: 2
-        x: 89
-        y: 103
-        width: 931
-        height: 1074
+        x: 37
+        y: 0
+        width: 24
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adfcc53ac89229a70800000000000000
-      internalID: 8832167503239892954
+      spriteID: 51a4daf971879a3d0800000000000000
+      internalID: -3194890417784141291
       vertices: []
       indices: 
       edges: []
@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pedicule_0: -3194890417784141291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
