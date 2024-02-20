@@ -3,7 +3,7 @@ guid: 4c044daf33e215f42b3a9ae0ba71ab9c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,11 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -36,9 +37,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -63,6 +64,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
@@ -75,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -87,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -99,6 +103,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -976,50 +1007,49 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Arrows_20: -291977617
-      Arrows_22: -1098821211
-      Arrows_15: -2019852138
-      Arrows_35: -1342912162
-      Arrows_13: 1127417824
-      Arrows_36: -1893481637
-      Arrows_31: 455591701
-      Arrows_16: -81593434
-      Arrows_9: 1124742603
-      Arrows_28: -1139706201
-      Arrows_19: 1952617490
-      Arrows_6: -1374208561
-      Arrows_17: 777314089
-      Arrows_27: 1802655727
-      Arrows_26: 667595222
-      Arrows_24: -1329159745
-      Arrows_29: 2098593439
-      Arrows_32: -570076860
-      Arrows_39: -1072493822
       Arrows_0: 2020276135
-      Arrows_40: -648296632
-      Arrows_4: -965376936
-      Arrows_11: 402015700
-      Arrows_21: -297865350
-      Arrows_34: -233062978
-      Arrows_3: -620446679
-      Arrows_12: 1565706723
       Arrows_1: -1354281744
-      Arrows_5: 1334225714
       Arrows_10: -848821281
-      Arrows_18: -1339563030
-      Arrows_37: 2014346623
-      Arrows_8: 240655876
-      Arrows_33: 588317321
-      Arrows_23: -691985323
-      Arrows_2: -1604568007
-      Arrows_38: 1423872361
-      Arrows_7: 1071196641
+      Arrows_11: 402015700
+      Arrows_12: 1565706723
+      Arrows_13: 1127417824
       Arrows_14: -1053480154
+      Arrows_15: -2019852138
+      Arrows_16: -81593434
+      Arrows_17: 777314089
+      Arrows_18: -1339563030
+      Arrows_19: 1952617490
+      Arrows_2: -1604568007
+      Arrows_20: -291977617
+      Arrows_21: -297865350
+      Arrows_22: -1098821211
+      Arrows_23: -691985323
+      Arrows_24: -1329159745
       Arrows_25: 616236870
+      Arrows_26: 667595222
+      Arrows_27: 1802655727
+      Arrows_28: -1139706201
+      Arrows_29: 2098593439
+      Arrows_3: -620446679
       Arrows_30: 1973757131
-  spritePackingTag: 
+      Arrows_31: 455591701
+      Arrows_32: -570076860
+      Arrows_33: 588317321
+      Arrows_34: -233062978
+      Arrows_35: -1342912162
+      Arrows_36: -1893481637
+      Arrows_37: 2014346623
+      Arrows_38: 1423872361
+      Arrows_39: -1072493822
+      Arrows_4: -965376936
+      Arrows_40: -648296632
+      Arrows_5: 1334225714
+      Arrows_6: -1374208561
+      Arrows_7: 1071196641
+      Arrows_8: 240655876
+      Arrows_9: 1124742603
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

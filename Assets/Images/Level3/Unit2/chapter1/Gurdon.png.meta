@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 6a8671661cbe4c34aa05f4461f890f8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 694703330439964357
+    second: Gurdon_0
+  - first:
+      213: 8389822733151130854
+    second: Gurdon_1
+  - first:
+      213: -5047446632023490766
+    second: Gurdon_2
+  - first:
+      213: 8705608472538116359
+    second: Gurdon_3
+  - first:
+      213: -7448032634396435319
+    second: Gurdon_4
+  - first:
+      213: -5137640899287135576
+    second: Gurdon_5
+  - first:
+      213: -5287399731831604189
+    second: Gurdon_6
+  - first:
+      213: 7241961766278699791
+    second: Gurdon_7
+  - first:
+      213: -1242770526728463260
+    second: Gurdon_8
+  - first:
+      213: -8188364354361826043
+    second: Gurdon_9
+  - first:
+      213: -2403277053962849636
+    second: Gurdon_10
+  - first:
+      213: 8615258791779696933
+    second: Gurdon_11
+  - first:
+      213: -7884531638723936237
+    second: Gurdon_12
+  - first:
+      213: 3235206984637844946
+    second: Gurdon_13
+  - first:
+      213: 5338008303778395086
+    second: Gurdon_14
+  - first:
+      213: 2247567313426362769
+    second: Gurdon_15
+  - first:
+      213: -7036725276263233039
+    second: Gurdon_16
+  - first:
+      213: 3459104529168483523
+    second: Gurdon_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gurdon_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 202
+        width: 236
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a7239ff414a900800000000000000
+      internalID: 694703330439964357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 370
+        width: 162
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e458f91353ae6470800000000000000
+      internalID: 8389822733151130854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 183
+        width: 237
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f7f7bd70ed3f9b0800000000000000
+      internalID: -5047446632023490766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 239
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f34f08c880d870800000000000000
+      internalID: 8705608472538116359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 182
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c9847c7c543a890800000000000000
+      internalID: -7448032634396435319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 185
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac87e82de63b8b0800000000000000
+      internalID: -5137640899287135576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c7eae25f16f96b0800000000000000
+      internalID: -5287399731831604189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 166
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b900c5bdd908460800000000000000
+      internalID: 7241961766278699791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c56095acac0cee0800000000000000
+      internalID: -1242770526728463260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 45
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505eac6e0061d5e80800000000000000
+      internalID: -8188364354361826043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 52
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9272b5a048d5aed0800000000000000
+      internalID: -2403277053962849636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 51
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521071cb93c8f8770800000000000000
+      internalID: 8615258791779696933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gurdon_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 36
+        width: 158
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100885af34849290800000000000000
+      internalID: -7884531638723936237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 383611bbd671127458ccf36f23015b42
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gurdon_0: 694703330439964357
+      Gurdon_1: 8389822733151130854
+      Gurdon_10: -2403277053962849636
+      Gurdon_11: 8615258791779696933
+      Gurdon_12: -7884531638723936237
+      Gurdon_2: -5047446632023490766
+      Gurdon_3: 8705608472538116359
+      Gurdon_4: -7448032634396435319
+      Gurdon_5: -5137640899287135576
+      Gurdon_6: -5287399731831604189
+      Gurdon_7: 7241961766278699791
+      Gurdon_8: -1242770526728463260
+      Gurdon_9: -8188364354361826043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
