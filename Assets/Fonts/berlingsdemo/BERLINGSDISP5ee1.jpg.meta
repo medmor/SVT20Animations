@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BERLINGSDISP5ee1_0: 4222088308419351592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
