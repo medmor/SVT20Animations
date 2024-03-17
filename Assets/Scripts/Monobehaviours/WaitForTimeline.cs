@@ -1,19 +1,19 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class WaitForTimeline : MonoBehaviour
 {
-    [ser]
-    // Start is called before the first frame update
+    [SerializeField] private GameObject timeline;
+    [SerializeField] private float seconds = 5;
+
     void Start()
     {
-
+        StartCoroutine(Waite());
     }
 
-    // Update is called once per frame
-    void Update()
+    IEnumerator Waite()
     {
-
+        yield return new WaitForSeconds(seconds);
+        timeline.SetActive(true);
     }
 }
