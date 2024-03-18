@@ -2492,7 +2492,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -3085,9 +3085,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 533660219}
     m_Modifications:
     - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
+      propertyPath: m_Size.x
+      value: 6.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
+      propertyPath: m_Size.y
+      value: 3.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -4571828015118065507, guid: 363c545824f91f74eb63304417410690, type: 3}
+      objectReference: {fileID: 6629812147117271838, guid: a24da40120b41114ca3e7eedea708d0b, type: 3}
     - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -3100,13 +3108,25 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1152749025231398761, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1152749025231398774, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 2.818497
       objectReference: {fileID: 0}
     - target: {fileID: 1152749025231398774, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3
+      value: 2.867282
+      objectReference: {fileID: 0}
+    - target: {fileID: 1152749025231398774, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0025
+      objectReference: {fileID: 0}
+    - target: {fileID: 1152749025231398774, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0149
       objectReference: {fileID: 0}
     - target: {fileID: 1152749026972616286, guid: ddfce579926bb144b9bf6a8f7ed65f36, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3223,7 +3243,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -3904,78 +3924,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2978440106159840428, guid: 9e829b857ad373149af3409658346239, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440108214952547, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106984427304, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106758490801, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106514713976, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107332706045, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107345601114, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106565898584, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106315966346, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107584696502, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107855539802, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440108139273921, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106448225851, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107204802863, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107405412556, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107401645661, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107769448817, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107087775852, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106936106946, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106339055383, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107037788306, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107454187704, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107151244953, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440106958204921, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 2978440107501220505, guid: 9e829b857ad373149af3409658346239, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
     - targetCorrespondingSourceObject: {fileID: 2978440107310325834, guid: 9e829b857ad373149af3409658346239, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
@@ -4317,7 +4265,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 16777215
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -4992,15 +4940,6 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3166896040862043672, guid: 6010a7d54e7e522498b6a46a34dea835, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 3166896041294837691, guid: 6010a7d54e7e522498b6a46a34dea835, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 3166896041734581172, guid: 6010a7d54e7e522498b6a46a34dea835, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
     - targetCorrespondingSourceObject: {fileID: 3166896042576278348, guid: 6010a7d54e7e522498b6a46a34dea835, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
