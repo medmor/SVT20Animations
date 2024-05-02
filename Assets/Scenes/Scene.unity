@@ -128,6 +128,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4558963}
+  - component: {fileID: 4558964}
   m_Layer: 0
   m_Name: Numbers
   m_TagString: Untagged
@@ -152,6 +153,21 @@ Transform:
   - {fileID: 1033627191}
   m_Father: {fileID: 1408903112}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4558964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4558962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcf11f768e9a3f94dbf57ce96b9aef0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  yearsText: {fileID: 2107348991}
+  populationText: {fileID: 1033627192}
+  speed: 3.4
 --- !u!1 &469651476
 GameObject:
   m_ObjectHideFlags: 0
@@ -200,11 +216,11 @@ MonoBehaviour:
   m_Spline:
     m_IsOpenEnded: 1
     m_ControlPoints:
-    - position: {x: -4.331346, y: -1.2504227, z: 0}
-      leftTangent: {x: -1.3279836, y: -0.24979025, z: -0}
-      rightTangent: {x: 1.331346, y: 0.25042272, z: 0}
+    - position: {x: -3.9755487, y: -1.3561609, z: 0}
+      leftTangent: {x: -1.3010135, y: -0.36508238, z: 0}
+      rightTangent: {x: 1.2871389, y: 0.36118865, z: 0}
       mode: 1
-      height: 0.1
+      height: 0.5
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
@@ -212,15 +228,15 @@ MonoBehaviour:
       leftTangent: {x: -0.9011438, y: -0.34624505, z: -0}
       rightTangent: {x: 0.8658817, y: 0.33269635, z: 0}
       mode: 1
-      height: 0.1
+      height: 0.5
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 5.9999843, y: 1.2139338, z: 0}
-      leftTangent: {x: -0.9622369, y: -0.24901193, z: 0}
-      rightTangent: {x: 0.8925371, y: 0.2309748, z: 0}
+    - position: {x: 5.454176, y: 1.6529, z: 0}
+      leftTangent: {x: -0.9622302, y: -0.2490108, z: 0}
+      rightTangent: {x: 0.8925214, y: 0.23097813, z: 0}
       mode: 1
-      height: 0.1
+      height: 0.5
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
@@ -304,8 +320,8 @@ SpriteShapeRenderer:
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   m_LocalAABB:
-    m_Center: {x: 0.8336892, y: -0.011762977, z: 0}
-    m_Extent: {x: 5.4152975, y: 1.3097107, z: 0}
+    m_Center: {x: 0.73807955, y: 0.14872324, z: 0}
+    m_Extent: {x: 4.988276, y: 1.6921599, z: 0}
   m_SpriteSortPoint: 0
 --- !u!1001 &1005382912
 PrefabInstance:
@@ -423,15 +439,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 1960
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f41db4392867bca4cb199963fcd8db2a, type: 2}
-  m_sharedMaterial: {fileID: -4790671444716894926, guid: f41db4392867bca4cb199963fcd8db2a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -517,7 +533,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -4790671444716894926, guid: f41db4392867bca4cb199963fcd8db2a, type: 2}
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -790,19 +806,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7252485247441851505, guid: caa757c484ba5324396f916d86bed12d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4558963}
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7252485247542531837, guid: caa757c484ba5324396f916d86bed12d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 7252485246770178526, guid: caa757c484ba5324396f916d86bed12d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 7252485247024333817, guid: caa757c484ba5324396f916d86bed12d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
-    - targetCorrespondingSourceObject: {fileID: 7252485247718428456, guid: caa757c484ba5324396f916d86bed12d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: caa757c484ba5324396f916d86bed12d, type: 3}
 --- !u!4 &1408903112 stripped
 Transform:
@@ -834,13 +838,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1961070289}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.2269, y: -0.1214, z: 0}
-  m_LocalScale: {x: 10.396366, y: 5.259224, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0.18480907, w: 0.98277444}
+  m_LocalPosition: {x: 0.2503, y: -0.1214, z: 0}
+  m_LocalScale: {x: 10.349583, y: 5.259224, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1408903112}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 21.3}
 --- !u!331 &1961070291
 SpriteMask:
   m_ObjectHideFlags: 0
@@ -954,15 +958,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 1960
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f41db4392867bca4cb199963fcd8db2a, type: 2}
-  m_sharedMaterial: {fileID: -4790671444716894926, guid: f41db4392867bca4cb199963fcd8db2a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1048,7 +1052,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -4790671444716894926, guid: f41db4392867bca4cb199963fcd8db2a, type: 2}
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

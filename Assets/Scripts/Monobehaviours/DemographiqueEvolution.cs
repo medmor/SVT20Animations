@@ -19,43 +19,48 @@ public class DemographiqueEvolution : MonoBehaviour
    2010,  2011,  2012,  2013,
   2014,  2015,  2016,  2017,  2018,
    2019,  2020,  2021,  2022 };
-    int[] population = new int[] {  11769774,  12081713,  12404757,  12726686,
-  13044254,  13381880,  13738502,  14109755,  14490077,
-   14876982,  15274351,  15677300,  16081438,
-  16489452,  16902383,  17325325,  17756516,  18206472,
-   18679859,  19167661, 9678444,  20208260,
-  20746765,  21287381, 21817271, 22335077, 22824446,
-   23279935,  23720590,  24148104,  24570814,
-  24988083,  25400676,  25806777,  26201551,  26599048,
-   26999093,  27397118,  27791825,  28176997,
-  28554415, 28930097, 29301817, 29661270, 30033125,
-  30431902, 30833022, 31232633, 31634992,
-  32042877, 32464865, 32903699, 33352169, 33803527,
-  34248603, 34680458, 35107264, 35528115,
-  35927511, 36304408, 36688772, 37076584, 37457971 };
+    string[] population = new string[] {  "11 769 774",  "12 081 713",  "12 404 757",  "12 726 686",
+  "13 044 254",  "13 381 880",  "13 738 502",  "14 109 755",  "14 490 077",
+   "14 876 982",  "15 274 351",  "15 677 300",  "16 081 438",
+  "16 489 452",  "16 902 383",  "17 325 325",  "17 756 516",  "18 206 472",
+   "18 679 859",  "19 167 661", "19 678 444",  "20 208 260",
+  "20 746 765",  "21 287 381", "21 817 271", "22 335 077", "22 824 446",
+   "23 279 935",  "23 720 590",  "24 148 104",  "24 570 814",
+  "24 988 083",  "25 400 676",  "25 806 777",  "26 201 551",  "26 599 048",
+   "26 999 093",  "27 397 118",  "27 791 825",  "28 176 997",
+  "28 554 415", "28 930 097", "29 301 817", "29 661 270", "30 033 125",
+  "30 431 902", "30 833 022", "31 232 633", "31 634 992",
+  "32 042 877", "32 464 865", "32 903 699", "33 352 169", "33 803 527",
+  "34 248 603", "34 680 458", "35 107 264", "35 528 115",
+  "35 927 511", "36 304 408", "36 688 772", "37 076 584", "37 457 971" };
 
-    [SerializeField] private TextMesh yearsText;
+    [SerializeField] private TextMeshPro yearsText;
 
-    [SerializeField] private TextMesh populationText;
+    [SerializeField] private TextMeshPro populationText;
 
-    [SerializeField] private float time;
-    [SerializeField] private float speed;
+    [SerializeField] private float speed = 1;
+    private float time = 0;
+    private int i = 0;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        yearsText.text = years[0].ToString();
-        populationText.text = population[0].ToString();
+        yearsText.text = years[i].ToString();
+        populationText.text = population[i];
     }
 
     // Update is called once per frame
     void Update()
     {
-        time += Time.deltaTime * speed;
-        if (time > 100)
+        time += speed;
+        if (time > 100 && i < years.Length)
         {
+            yearsText.text = years[i].ToString();
+            populationText.text = population[i];
             print("passed");
+            time = 0;
+            i++;
         }
     }
 }
