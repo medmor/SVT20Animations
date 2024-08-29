@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.2d.spriteshape": "9.0.3",
+    "com.unity.2d.spriteshape": "9.0.4",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.recorder": "4.0.3",
     "com.unity.render-pipelines.universal": "14.0.11",
