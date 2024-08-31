@@ -1,18 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class TimelineManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] Playable[] playables;
     void Start()
     {
-        
+        playables[0].Play();
+        var duration = playables[0].GetDuration();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
