@@ -987,7 +987,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3544076979618497882, guid: c3b7b3d249b3be1409fcfe5602b03b13, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4353189075970585200, guid: c3b7b3d249b3be1409fcfe5602b03b13, type: 3}
       propertyPath: m_text
@@ -1496,8 +1496,32 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3544076979618497882, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4179692095198315177, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4179692095198315177, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6089700225662769342, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 6089700225662769342, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8334568865480328165, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
+      propertyPath: m_SceneBindings.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8334568865480328165, guid: 78f390d304e336b46a87337e3b912e0c, type: 3}
+      propertyPath: m_SceneBindings.Array.data[5].key
+      value: 
+      objectReference: {fileID: 4796630953068997188, guid: 1a3ba283484e6534db28bbc65aed827a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:

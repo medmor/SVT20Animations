@@ -178,6 +178,42 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3841195007704516634, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 2772603022256833878, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 6464295490243935804, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 474717024445675403, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 3240745241492163075, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 3111260929281351590, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8836379395811549756, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 7441403909680549301, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 4365919894071593258, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 167882813261462754, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8651397969353143468, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 9093214173985300893, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
     - targetCorrespondingSourceObject: {fileID: 5158856050004179317, guid: 80de9d305bd8d644cab2cdb42a582af0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
